@@ -1,2 +1,2 @@
 # bussiness-card
-Basic bussness card for praticing fundamentals of css.
+On my path to learn HTML & CSS.
