@@ -1,0 +1,30 @@
+body {
+    margin: 20px;
+       
+}
+
+.card {
+    
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 480px;
+    margin: 0 auto;
+    text-align: center;
+    color: #2b2839;
+    background: #ddebf8;
+    border-bottom: 6px solid #d8cefe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow:2px 2px #bbd0ff;
+    box-shadow: 3px 3px #e9ecef;
+}
+
+
+
+.avatar {
+    width: 200px;
+ }
+
+.avatar:hover{
+    background: url("us.jpg") no-repeat;
+}
